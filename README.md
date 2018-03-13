@@ -1,5 +1,4 @@
-# reOCR_sample
-Sample reOCR method output: 
+#Sample reOCR method output: 
 
 Paper presented in Nordic Conference of Computational Linguistics 2017, Improving Optical Character Recognition of Finnish Historical Newspapers with a Combination of Fraktur &amp; Antiqua Models and Image Preprocessing, Mika Koistinen, Kimmo Kettunen and Tuula Pääkkönen (http://www.ep.liu.se/ecp/131/038/ecp17131038.pdf), and another paper presented in Digital Humanities in Nordic Countries 2018, Creating and using ground truth OCR sample data for Finnish historical newspapers and journals 2018, Kimmo Kettunen, Jukka Kervinen and Mika Koistinen 
 
